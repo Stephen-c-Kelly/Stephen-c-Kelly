@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Stephen 
+
+I’m a full-stack software engineer and digital project director inspired by building products clients love. With 10+ years working in creative technologies as both the client facing and project management lead, I’ve learned that aligning the goals of technical, creative, and business teams is the proven route to success.  I bring a warm engaging manner and a zest for creative solutions to any team I work on.  As a software developer, I'm passionately interested in developing software within a collaborative team that drives client success. 
 
 <!--
 **Stephen-c-Kelly/Stephen-c-Kelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
